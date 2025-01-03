@@ -1,2 +1,2 @@
-# .dotfiles
+# dotfiles
 organization of config dotfiles
